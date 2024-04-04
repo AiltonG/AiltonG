@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- 🌱 I’m currently learning Front-end
+- 🌱 I’m currently learning Back-end
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=3&hide=TypeScript)](https://github.com/AiltonG)
 
